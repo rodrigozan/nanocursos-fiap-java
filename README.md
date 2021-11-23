@@ -2,7 +2,9 @@
 
 ## Java
 
-Repositório do NanoCurso Java da **FIAP**
+Repositório do NanoCurso **Java** da **FIAP**
+
+Trabalhando classes, atributos, métodos e construtores na linguagem **Java**
 
 Para rodar o projeto:
 
